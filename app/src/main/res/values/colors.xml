@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yesil">#0FB816</color>
+    <color name="kırmızı">#EC3625</color>
+    <color name="koyukırmızı">#A81C0F</color>
+    <color name="chip">#6A1D16</color>
+    <color name="chipColor">#024851</color>
+</resources>
